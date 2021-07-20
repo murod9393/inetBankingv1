@@ -1,0 +1,21 @@
+14:00:00.377 [main] INFO  com.inetBanking.testCases.Base - Username is provided
+14:00:00.428 [main] INFO  com.inetBanking.testCases.Base - Password is provided
+14:00:03.914 [main] INFO  com.inetBanking.testCases.Base - Providing Customer details...
+14:00:07.648 [main] INFO  com.inetBanking.testCases.Base - Test case addNewCustomer passed
+14:00:22.189 [main] INFO  com.inetBanking.testCases.Base - Username entered
+14:00:22.232 [main] INFO  com.inetBanking.testCases.Base - Password entered
+14:00:22.494 [main] INFO  com.inetBanking.testCases.Base - Clicked Submit button
+14:00:25.815 [main] INFO  com.inetBanking.testCases.Base - Username provided
+14:00:25.857 [main] INFO  com.inetBanking.testCases.Base - Password provided
+14:00:26.354 [main] INFO  com.inetBanking.testCases.Base - Username provided
+14:00:26.389 [main] INFO  com.inetBanking.testCases.Base - Password provided
+14:00:26.942 [main] INFO  com.inetBanking.testCases.Base - Login passed
+14:00:27.220 [main] INFO  com.inetBanking.testCases.Base - Username provided
+14:00:27.257 [main] INFO  com.inetBanking.testCases.Base - Password provided
+14:00:27.836 [main] INFO  com.inetBanking.testCases.Base - Username provided
+14:00:27.871 [main] INFO  com.inetBanking.testCases.Base - Password provided
+14:00:28.277 [main] INFO  com.inetBanking.testCases.Base - Login passed
+14:00:30.540 [main] INFO  com.inetBanking.testCases.Base - Username is provided
+14:00:30.584 [main] INFO  com.inetBanking.testCases.Base - Password is provided
+14:00:34.072 [main] INFO  com.inetBanking.testCases.Base - Providing Customer details...
+14:00:37.793 [main] INFO  com.inetBanking.testCases.Base - Test case addNewCustomer passed
