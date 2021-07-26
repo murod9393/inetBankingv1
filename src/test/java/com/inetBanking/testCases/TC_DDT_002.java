@@ -30,6 +30,7 @@ public class TC_DDT_002 extends Base {
 
 	@Test(dataProvider = "cridentials")
 	public void loginDDT(String user, String pass) throws IOException {
+		System.out.println("DDT started...");
 		LoginPage lp = new LoginPage(driver);
 		lp.setUserName(user);
 		logger.info("Username provided");
